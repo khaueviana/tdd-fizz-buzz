@@ -4,3 +4,5 @@ C:\Users\KV\Workspace\tdd-fizz-buzz\KV.TDD.FizzBuzz\KV.TDD.FizzBuzz.ConsoleAppli
 C:\Users\KV\Workspace\tdd-fizz-buzz\KV.TDD.FizzBuzz\KV.TDD.FizzBuzz.ConsoleApplication\obj\Debug\KV.TDD.FizzBuzz.ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\KV\Workspace\tdd-fizz-buzz\KV.TDD.FizzBuzz\KV.TDD.FizzBuzz.ConsoleApplication\obj\Debug\KV.TDD.FizzBuzz.ConsoleApplication.exe
 C:\Users\KV\Workspace\tdd-fizz-buzz\KV.TDD.FizzBuzz\KV.TDD.FizzBuzz.ConsoleApplication\obj\Debug\KV.TDD.FizzBuzz.ConsoleApplication.pdb
+C:\Users\KV\Workspace\tdd-fizz-buzz\KV.TDD.FizzBuzz\KV.TDD.FizzBuzz.ConsoleApplication\bin\Debug\KV.TDD.FizzBuzz.Domain.dll
+C:\Users\KV\Workspace\tdd-fizz-buzz\KV.TDD.FizzBuzz\KV.TDD.FizzBuzz.ConsoleApplication\bin\Debug\KV.TDD.FizzBuzz.Domain.pdb

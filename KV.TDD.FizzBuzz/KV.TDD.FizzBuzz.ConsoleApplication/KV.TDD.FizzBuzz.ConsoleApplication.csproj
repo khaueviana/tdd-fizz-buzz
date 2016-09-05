@@ -49,6 +49,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KV.TDD.FizzBuzz.Domain\KV.TDD.FizzBuzz.Domain.csproj">
+      <Project>{e47fbac5-ca58-48ae-a258-7d8d4783d5a4}</Project>
+      <Name>KV.TDD.FizzBuzz.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
